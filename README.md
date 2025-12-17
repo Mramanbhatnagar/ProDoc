@@ -1,2 +1,3 @@
 # ProDoc
+# ProDoc : AI Power Virtual Health Care
 Smart AI system analyzes patient reports, predicts diseases, and suggests prescriptions/precautions. It monitors real-time vitals, integrates with hospital systems for accuracy, predicts future vitals based on treatment, estimates recovery, and facilitates secure patient-attender-doctor communication. By Aman Bhatnagar ji

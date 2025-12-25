@@ -1,5 +1,5 @@
 
-<img width="400" height="400" margin-left="auto" alt="Gemini_Generated_Image_bn8zv6bn8zv6bn8z" src="https://github.com/user-attachments/assets/bcc92156-283b-4abb-9ede-bb2f14804cb1" object-fit: none; object-position: top right/>
+<img width="400" height="400" margin-left="auto" alt="Gemini_Generated_Image_bn8zv6bn8zv6bn8z" src="https://github.com/user-attachments/assets/bcc92156-283b-4abb-9ede-bb2f14804cb1" object-fit: none object-position: top right/>
 
 # ProDoc : AI Power Virtual Health Care 
 ## ProDoc : AI Power Virtual Health Care is a hyper-integrated healthcare solution that bridges the gap between real-time patient monitoring and predictive medical diagnostics. By leveraging 2025's advanced Deep Learning architectures, it doesn't just track health—it forecasts it. Smart AI system analyzes patient reports, predicts diseases, and suggests prescriptions/precautions. It monitors real-time vitals, integrates with hospital systems for accuracy, predicts future vitals based on treatment, estimates recovery, and facilitates secure patient-attender-doctor communication. 
